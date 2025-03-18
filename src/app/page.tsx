@@ -275,7 +275,7 @@ const App = () => {
                 <span className="font-medium">Welcome to VRR NEST Repainting Project Portal!</span>
               </p>
               <p className="text-sm text-yellow-700 mt-1">
-                Please change your initial password (vrrnestuser) for security.
+                Please change your initial password for security.
               </p>
               <button 
                 className="mt-2 px-3 py-1 bg-yellow-500 text-white text-sm rounded hover:bg-yellow-600"
@@ -300,7 +300,7 @@ const App = () => {
                 <input 
                   type="password" 
                   className="w-full p-2 border border-gray-300 rounded"
-                  placeholder="Enter current password (vrrnestuser)"
+                  placeholder="Enter current password "
                 />
               </div>
               <div>
