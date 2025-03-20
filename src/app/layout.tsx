@@ -18,14 +18,6 @@ export default function RootLayout({
     <html lang='en'>
       <body className={inter.className}>{children}</body>
       <footer className='flex items-center justify-center w-full h-24 border-t text-emerald-700 font-semibold'>
-        <a
-          className='flex items-center justify-center'
-          href='https://vrrnestpaintdemo.vercel.app/'
-          target='_blank'
-          rel='noopener noreferrer'
-        >
-          Demo Application
-        </a>
       </footer>
     </html>
   );
