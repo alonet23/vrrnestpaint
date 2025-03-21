@@ -961,7 +961,7 @@ const App = () => {
       <footer className="bg-white py-4 border-t">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-sm text-gray-600">© 2025 VRR NEST Resident Association</p>
+            <p className="text-sm text-gray-600">© 2025 VRR NEST Owners Welfare Association</p>
             <div className="mt-2 md:mt-0">
                               <p className="text-sm text-gray-600">
                 For support: <span className="font-medium">support@vrrnest.com</span> | Helpline: <span className="font-medium">+91 XXXXX XXXXX</span>
