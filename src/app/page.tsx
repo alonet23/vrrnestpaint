@@ -233,11 +233,11 @@ const App = () => {
   };
   
   // Effect to show password modal on first login
-  useEffect(() => {
-    if (isFirstLogin) {
-      setShowPasswordModal(true);
-    }
-  }, [isFirstLogin]);
+  //useEffect(() => {
+  //  if (isFirstLogin) {
+  //    setShowPasswordModal(false);
+  //  }
+  // }, [isFirstLogin]);
 
   return (
     <div className="flex flex-col h-screen bg-gray-100">
